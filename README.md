@@ -19,4 +19,5 @@ BND 项目的主要贡献者来自于 B3log 开源社区，大家对 BND 的开�
 * 如果你需要搭建一个个人博客系统，可以考虑使用 [Solo](https://github.com/b3log/solo)
 * 如果你需要搭建一个多用户博客平台，可以考虑使用 [Pipe](https://github.com/b3log/pipe)
 * 如果你需要搭建一个社区平台，可以考虑使用 [Sym](https://github.com/b3log/symphony)
+* 如果你需要制造一个编程语言，可以考虑使用 [Racket](https://racket-lang.org/)
 * 欢迎加入我们的小众开源社区，详情请看[这里](https://hacpai.com/article/1463025124998)
